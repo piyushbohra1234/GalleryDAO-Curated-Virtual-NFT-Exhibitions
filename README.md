@@ -21,7 +21,7 @@ To gamify NFT distribution by combining on-chain randomness with artistically ge
 - Community-governed art pool and prize themes
 - Multi-winner support and rare prize tiers
 - Bridging to off-chain generative art engines
-
+project done by piyush bohra
 ## Contract Details
 0x59Af8B56Ce6ebe619A5dCab6c2B781fdfEf096b1
 ![alt text](image.png)
