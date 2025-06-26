@@ -12,7 +12,7 @@ To gamify NFT distribution by combining on-chain randomness with artistically ge
 
 - NFT lottery rounds with buy-in ticketing
 - On-chain random winner selection (pseudo-random for MVP)
-- Customizable token URI per round for generative art
+- Customizable token URI per round for generative art     
 - Admin-controlled round lifecycle
 
 ## Future Scope
