@@ -1,4 +1,4 @@
-# Project Title: ArtChance: Generative NFT Lottery System
+# Project Title: ArtChance: Generative NFT Lottery System.  
    
 ## Project Description 
 
