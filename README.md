@@ -8,7 +8,7 @@ ArtChance is a decentralized lottery where participants buy tickets to win a uni
 
 To gamify NFT distribution by combining on-chain randomness with artistically generated digital assets, encouraging community engagement through fair chance mechanics.
 
-## Key Features
+## Key Features.  
 
 - NFT lottery rounds with buy-in ticketing
 - On-chain random winner selection (pseudo-random for MVP)
